@@ -1,0 +1,31 @@
+#       # ####   School
+ #     #  #   #
+  #   #   ####
+   # #    #   #
+    #     ####
+
+<------ IXCon Design ------>
+
+Welcome to VBSchool, a Visual Basic 6 course for beginners. 
+You can learn from it VB and, in future,
+You will be an advanced programmer.
+
+Lesson list
+====================
+
+1. Introduction to VB <------ Current lesson ------>
+2. Working with controls
+3. Math operations
+4. Subprograms and modules
+5. File manipulation
+6. Additional controls
+7. Simple calculator
+8. Drawing in VB
+9. Accesing Internet
+10. Using WinSock
+11. Working with databases
+12. Class modules
+13. How to create an UserControl?
+14. Simple Sudoku game
+15. Chat application
+16. DirectX and OpenGL
